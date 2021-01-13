@@ -9,4 +9,6 @@
 
 #### a little program i made that i find very usefull in my day to day life
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miko-t&repo=upass-spork" />
+<a href="https://github.com/miko-t/upass-spork">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miko-t&repo=upass-spork" />
+</a>
