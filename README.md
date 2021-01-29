@@ -8,8 +8,7 @@
 </a>
 
 #### This is my Chess AI project:
-> Its a chess game made in unity from scrath, and on top of it i've made "brains" that control each player and i can build a "computer brain" that will do moves, base on some fucntion it has, currently my first attemp was way to inefficient as it was calculation every possible move up to 3-4 in the future with leads to about 200k possible moves,
-anyway it can be drasticlly improved maybe try to add Neural networks ?
+> A chess game made in unity from scrath, and on top of it i've made "brains" that control each player and i can build a "computer brain" that will do moves, base on some fucntion it has, currently my first attemp was way to inefficient, hopefully will imrove it sometime in the near future.
 
 <a href="https://github.com/miko-t/ChessAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miko-t&repo=ChessAI&layout=compact" />
