@@ -7,8 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko-t&layout=compact&langs_count=6&exclude_repo=ML_learning" />
 </a>
 
-#### This is my Chess AI project:
-> A chess game made in unity from scrath, and on top of it i've made "brains" that control each player and i can build a "computer brain" that will do moves, base on some fucntion it has, currently my first attemp was way to inefficient, hopefully will imrove it sometime in the near future.
+#### My Chess AI project:
+> A chess game made in unity from scrath, there are "brain" options like "human" or "ai" human well is human,
+> and AI is one that the programmer can code the functionallity into, the only requirment is to end the Turn at somepoint.
 
 <a href="https://github.com/miko-t/ChessAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miko-t&repo=ChessAI&layout=compact" />
